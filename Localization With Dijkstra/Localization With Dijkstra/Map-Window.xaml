@@ -1,0 +1,35 @@
+﻿<Window x:Class="bluetooth_project_1.Map_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bluetooth_project_1"
+        mc:Ignorable="d"
+        Title="Map_Window" Height="884" Width="1309" WindowState="Maximized" BorderThickness="0" >
+    <Window.Background>
+        <ImageBrush ImageSource="images/pattern1_2560x1600.jpg" Stretch="UniformToFill" Opacity="0.5"/>
+    </Window.Background>
+
+    <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+        <Grid HorizontalAlignment="Left" Height="874" Margin="10,10,0,-31" VerticalAlignment="Top" Width="1289">
+            <Grid x:Name="grid" HorizontalAlignment="Center" Height="770" Margin="30,815,44,-711" VerticalAlignment="Center" Width="1215" Background="#FFFBF9F9" RenderTransform="1 0 0 -1 0 0" >
+                <Canvas x:Name="canvas_fire" HorizontalAlignment="Left" Height="750" Margin="-145,430,0,-410" VerticalAlignment="Top" Width="1205">
+                    <Button x:Name="button_fire" Content="" Canvas.Left="900" Canvas.Top="500" Width="50" Height="40" RenderTransformOrigin="0.5,0.5" BorderBrush="{x:Null}">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="180"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                        <Button.Background>
+                            <ImageBrush ImageSource="images/Fire_copy-512.png"/>
+                        </Button.Background>
+                    </Button>
+                </Canvas>
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+
+</Window>

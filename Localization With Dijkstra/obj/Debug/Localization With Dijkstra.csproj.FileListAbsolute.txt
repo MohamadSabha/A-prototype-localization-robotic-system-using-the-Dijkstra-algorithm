@@ -1,0 +1,20 @@
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\bin\Debug\she-ano.rsf
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\bin\Debug\warning.rsf
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\bin\Debug\Localization With Dijkstra.exe.config
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\bin\Debug\Localization With Dijkstra.exe
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\bin\Debug\Localization With Dijkstra.pdb
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\MainWindow.g.cs
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Map-Window.g.cs
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\App.g.cs
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra_MarkupCompile.cache
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra_MarkupCompile.lref
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\MainWindow.baml
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Map-Window.baml
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.g.resources
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization_With_Dijkstra.Properties.Resources.resources
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.csproj.GenerateResource.cache
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.csproj.CoreCompileInputs.cache
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.csproj.CopyComplete
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.exe
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.pdb
+L:\محاضرات\Git\firefighter\Graduation Project\Localization with dijkstra\Localization With Dijkstra\obj\Debug\Localization With Dijkstra.csprojAssemblyReference.cache

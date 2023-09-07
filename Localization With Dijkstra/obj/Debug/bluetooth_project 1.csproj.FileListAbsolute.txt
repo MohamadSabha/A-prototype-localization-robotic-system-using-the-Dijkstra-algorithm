@@ -1,0 +1,207 @@
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.dll
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+c:\users\mhdsabha\documents\visual studio 2015\Projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.dll
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+F:\محاضرات\tabouk uni\robotic\projects\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Project 2\محمد\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\samer\Desktop\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\Public\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\كشكول\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\she-ano.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\warning.rsf
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\App.g.cs
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.cache
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1_MarkupCompile.lref
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\Map-Window.baml
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.g.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project_1.Properties.Resources.resources
+C:\Users\DELL\Dropbox\جامعة تبوك\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.csproj.GenerateResource.Cache
+C:\Users\saleh\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\saleh\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\saleh\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
+C:\Users\MHD\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\bin\Debug\bluetooth_project 1.exe.config
+C:\Users\MHD\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.exe
+C:\Users\MHD\Desktop\Graduation Project\Project Program\Graduation Project\bluetooth_project 1\bluetooth_project 1\obj\Debug\bluetooth_project 1.pdb
