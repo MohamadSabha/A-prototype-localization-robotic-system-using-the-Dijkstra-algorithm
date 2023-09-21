@@ -543,7 +543,7 @@ namespace Localization_With_Dijkstra
 
         private void node_text_drawing(int x, int y)
         {
-            // Create a textbox
+            // Create a textbox region 
             #region Create a textbox to view the name of first node at runtime
             TextBox nodetxt = new TextBox();
             nodetxt.Name = "textBox" + x + "";
